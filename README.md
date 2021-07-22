@@ -48,9 +48,6 @@
 # Architecutre
 <img src="https://github.com/ChenWang8750/WTAM/blob/master/imgs/architecutre.png" width="1000"/> 
 
-# Wavelet transform attention model
-<img src="https://github.com/ChenWang8750/WTAM/blob/master/imgs/wavelet_attention.png" width="800"/> 
-
 
 ## Run
 
