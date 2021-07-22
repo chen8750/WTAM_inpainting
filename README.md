@@ -107,4 +107,4 @@ Please contact _chenwang8750@gmails.com_  or open an issue for any questions or 
 Thanks! (●'◡'●)
 
 ## Acknowledgments
-Thanks the author of  [Shift-Net_pytorch](hhttps://github.com/Zhaoyi-Yan/Shift-Net_pytorch) for making their excellent works publicly available. 
+Thanks the author of  [Shift-Net_pytorch](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch) for making their excellent works publicly available. 
