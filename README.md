@@ -87,6 +87,7 @@ To view training results and loss plots, run `python -m visdom.server` and click
 
 
 ## Citing
+If you use this code, please consider citing:
 ```
 @inproceedings{wang2020generative,
   title={Generative Image Inpainting Based on Wavelet Transform Attention Model},
@@ -99,6 +100,11 @@ To view training results and loss plots, run `python -m visdom.server` and click
 
 ```
 
-## Acknowledgments
-We benefit a lot from [Shift-Net_pytorch](https://github.com/Zhaoyi-Yan/Shift-Net_pytorch)
+## Contacts
 
+Please contact _chenwang8750@gmails.com_  or open an issue for any questions or suggestions.
+
+Thanks! (●'◡'●)
+
+## Acknowledgments
+Thanks the author of  [Shift-Net_pytorch](hhttps://github.com/Zhaoyi-Yan/Shift-Net_pytorch) for making their excellent works publicly available. 
