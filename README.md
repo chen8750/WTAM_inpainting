@@ -1,6 +1,8 @@
 # Generative Image Inpainting Based on Wavelet Transform Attention Model
 
-[ISCAS 2020 Paper](https://doi.org/10.1109/ISCAS45731.2020.9180927) | [BibTex](#citing)
+[ISCAS 2020 Paper](https://doi.org/10.1109/ISCAS45731.2020.9180927) | 
+[Poster](https://github.com/ChenWang8750/MPI-model/blob/main/imgs/MPI_Poster.pdf) |
+[BibTex](#citing)
 
 **Update (Jun, 2021)**:
 1. The tech report of our new image inpainting system MuFA-Net is released, please checkout branch [v2.0.0](https://github.com/ChenWang8750/MuFA-Net) 
