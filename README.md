@@ -10,9 +10,6 @@
 
 # Example inpainting results
 <table style="float:center">
- <tr>
-  <th><B>Input</B></th> <th><B> Ours(U-net) </B></th> <th><B> Ours(UNet++)</B> <th><B>Ground-truth</B></th>
- </tr>
 <tr>
   <td>
    <img src='./imgs/11_real_A.png' >
@@ -26,7 +23,6 @@
   <td>
    <img src='./imgs/11_real_B.png'>
   </td>
- 
  </tr>
  
  <tr>
@@ -42,9 +38,10 @@
   <td>
    <img src='./imgs/159_real_B.png'>
   </td>
-
  </tr>
- 
+ <tr>
+  <th><b>Input</b></th> <th><b> Ours(U-net) </b></th> <th><b> Ours(UNet++)</b> <th><b>Ground-truth</b></th>
+ </tr>
   </table> 
 
 
@@ -56,7 +53,7 @@
   </tr>
   <tr>
     <td><p align="center"><b>Overall Framework</b></p></td>
-    <td><p align="center"> <b>Wavelet Transform Attention Model (WTAM)</b></p></td>
+    <td><p align="center"><b>Wavelet Transform Attention Model (WTAM)</b></p></td>
   </tr>
 </table>
 
