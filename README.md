@@ -47,8 +47,18 @@
  
   </table> 
 
-# Architecutre
-<img src="https://github.com/ChenWang8750/WTAM/blob/master/imgs/architecutre.png" width="1000"/> 
+
+## Network Architecture
+<table>
+  <tr>
+    <td> <img src = "https://github.com/ChenWang8750/WTAM/blob/master/imgs/architecutre.png" width="500"> </td>
+    <td> <img src = "https://github.com/ChenWang8750/WTAM/blob/master/imgs/wavelet-attention.png" width="400"> </td>
+  </tr>
+  <tr>
+    <td><p align="center"><b>Overall Framework</b></p></td>
+    <td><p align="center"> <b>Wavelet Transform Attention Model (WTAM)</b></p></td>
+  </tr>
+</table>
 
 
 ## Run
