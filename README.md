@@ -108,7 +108,7 @@ If you use this code, please consider citing:
 
 ## Contacts
 
-Please contact _chenwang8750@gmails.com_  or open an issue for any questions or suggestions.
+Please contact _chenwang8750@gmail.com_  or open an issue for any questions or suggestions.
 
 Thanks! (●'◡'●)
 
