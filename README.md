@@ -5,7 +5,7 @@
 [Project](https://chenwang8750.github.io/publication/wtam/) |
 [BibTex](#citing)
 
-**Update (Jun, 2021)**:
+**Update (Sep, 2021)**:
 1. The tech report of our new image inpainting system MuFA-Net is released, please checkout branch [v2.0.0](https://github.com/ChenWang8750/MuFA-Net) 
 2. WTAM is trained and mainly works on rectangular masks, while MuFA-Net can generate high quality inpainting results for variable masks.
 
